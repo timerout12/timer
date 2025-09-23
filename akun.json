@@ -18,5 +18,9 @@
   {
     "username": "wan",
     "password": "wan01"
+  },
+  {
+    "username": "dap",
+    "password": "dap12"
   }
 ]
